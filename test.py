@@ -2,5 +2,5 @@
 
 if (1 == 1):
     print("success")
-    exit (1)
+
 
